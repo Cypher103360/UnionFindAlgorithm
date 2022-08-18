@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UnionFindAlgorithm</string>
+    <string name="todo">TODO</string>
+    <string name="see_connections">See Connections</string>
+    <string name="check_connection">check connection</string>
+    <string name="add_connection">Add Connection</string>
+</resources>
